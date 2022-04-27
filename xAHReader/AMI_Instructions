@@ -1,0 +1,4 @@
+# Setup
+source AMISetup.sh
+# List samples in GetAMIvalues.py
+python GetAMIvalues.py > AMIvalues.txt &

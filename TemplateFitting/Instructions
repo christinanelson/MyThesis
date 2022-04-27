@@ -1,0 +1,27 @@
+############
+## STEP 0 ##
+############
+
+Take a look at Defs.py
+This script defines the set of data years, fitting range, etc
+
+############
+## STEP 1 ##
+############
+
+Run setup script
+$ source Setup.sh
+
+Run the fitter for each year combination and njet/mu flag
+$ python RunFitter.py
+
+Each case will produce a log file inside Logs/
+It will also produce a .txt file with the estimated number of multijet events in SR
+
+############
+## STEP 2 ##
+############
+
+Prepare the multijet distributions
+$ python PrepareMultijetDistributions.py
+

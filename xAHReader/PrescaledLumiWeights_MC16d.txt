@@ -1,0 +1,16 @@
+# 2016 PRESCALED TRIGGER           Lumi [pb-1]    prescale
+
+HLT_e26_lhvloose_nod0_L1EM20VH     299.826        110.024
+HLT_e25_lhvloose_L1EM15            15.5690        2118.832
+HLT_e30_lhvloose_L1EM15            25.1823        1309.972
+HLT_e40_lhvloose_L1EM15            64.3166        512.902
+HLT_e50_lhvloose_L1EM15            134.18         245.85
+HLT_e70_lhvloose                   360.179        91.588
+HLT_e80_lhvloose                   558.048        59.113
+HLT_e100_lhvloose                  1093.21        30.175
+HLT_e40_lhvloose                   20.3319        1622.48
+HLT_e60_lhvloose                   687.243        48.0
+HLT_e40_lhvloose_nod0              20.3355        1622.52
+HLT_e60_lhvloose_nod0              1157.71        28.494
+HLT_e26_lhvloose_L1EM20VH          214.643        153.688
+HLT_e28_lhvloose_nod0_L1EM20VH     57.9072        569.672
